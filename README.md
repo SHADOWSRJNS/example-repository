@@ -1,2 +1,2 @@
-# example-repository
-my first repository
+Web Designing 
+We have try to create a blogging website which mentions about the importance of travalling in our day to day life.We try to include features like the time consumed by the user while using this website.We have included stacks like html,css.
